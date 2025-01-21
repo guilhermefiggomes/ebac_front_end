@@ -1,0 +1,18 @@
+body {
+background-color:rgba(69, 69, 137, 0.627);
+font-family: Arial, Helvetica, sans-serif;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.message {
+    margin-top: 10px;
+    font-weight: bold;
+}  
+.success {
+    color:green;
+}
+.error {
+    color: red;
+}
